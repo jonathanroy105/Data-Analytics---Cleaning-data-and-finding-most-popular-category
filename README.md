@@ -1,0 +1,2 @@
+--Focuses on advising a hypothetical social media client as a Data Analyst.
+--Cleaned, modeled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
